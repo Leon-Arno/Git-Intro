@@ -4,3 +4,5 @@ developers.
 
 Git is quite fancy.
 GitHub is owned by Microsoft. Wow!
+
+What a sunny day!
